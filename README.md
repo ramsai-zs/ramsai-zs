@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ramsai-zs
+- 👋 Hi, I’m Ramsai
 - 👀 I’m interested in new case studies.
 - 🌱 I’m currently learning GOLANG
 - 💞️ I’m looking to collaborate on GO
